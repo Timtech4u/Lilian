@@ -1,1 +1,1 @@
-# Lilian
+PHPMailer library is used to send emails which is awesome mailer library, you can set your gmail credentials and using gmail smtp(smtp.gmail.com) in PHPMailer you can try this script at your localhost server too, so download PHP email Verification Script and try it in your localhost server..
